@@ -2,7 +2,7 @@
   "posts": [
     {
         
-        "_id":"5ea31596dba21690f07e8828",
+        "id":"5ea31596dba21690f07e8828",
   "username": "9843778389",
   "email": "udaykrishnasamy@gmail.com",
   "first_name": "Udhaya kumar",
@@ -14,7 +14,7 @@
   "otp": "999843"
     },
     {
-       "_id":"sfgshfgsfgsjfye77878",
+       "id":"sfgshfgsfgsjfye77878",
   "username": "9843778389",
   "email": "udaykrishnasamy@gmail.com",
   "first_name": "Udhaya kumar 1",
