@@ -2,24 +2,28 @@
   "posts": [
     {
         
-        _id: 5ea31596dba21690f07e8828,
-  username: '9843778389',
-  email: 'udaykrishnasamy@gmail.com',
-  first_name: 'Udhaya kumar',
-  last_name: 'Krishnasamy',
-  date_of_birth: 1986-05-09T18:30:00.000Z,
-  salt: 'fac86afeab744594371bc32cba2f67a2',
-  hash: '7ebc9771b7ca9291a928c2eeea5e641ab52d62621e8ab6de93f540dcccb0fe79a5af3afe6df99f0e1fc465466f41d8a4c3f61c922bc574333223144c57c916e7',
-  __v: 0,
-  otp: '999843'
+        "_id":"5ea31596dba21690f07e8828",
+  "username": "9843778389",
+  "email": "udaykrishnasamy@gmail.com",
+  "first_name: "Udhaya kumar",
+  "last_name: "Krishnasamy",
+  "date_of_birth: "1986-05-09T18:30:00.000Z",
+  "salt": "fac86afeab744594371bc32cba2f67a2",
+  "hash": "7ebc9771b7ca9291a928c2eeea5e641ab52d62621e8ab6de93f540dcccb0fe79a5af3afe6df99f0e1fc465466f41d8a4c3f61c922bc574333223144c57c916e7",
+  "__v": 0,
+  "otp": "999843"
     },
     {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
+       "_id":"sfgshfgsfgsjfye77878",
+  "username": "9843778389",
+  "email": "udaykrishnasamy@gmail.com",
+  "first_name: "Udhaya kumar 1",
+  "last_name: "Krishnasamy",
+  "date_of_birth: "1986-05-09T18:30:00.000Z",
+  "salt": "fac86afeab744594371bc32cba2f67a2",
+  "hash": "7ebc9771b7ca9291a928c2eeea5e641ab52d62621e8ab6de93f540dcccb0fe79a5af3afe6df99f0e1fc465466f41d8a4c3f61c922bc574333223144c57c916e7",
+  "__v": 0,
+  "otp": "999843"
     }
   ]
   
