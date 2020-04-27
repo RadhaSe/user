@@ -11,7 +11,8 @@
   "salt": "fac86afeab744594371bc32cba2f67a2",
   "hash": "7ebc9771b7ca9291a928c2eeea5e641ab52d62621e8ab6de93f540dcccb0fe79a5af3afe6df99f0e1fc465466f41d8a4c3f61c922bc574333223144c57c916e7",
   "__v": 0,
-  "otp": "999843"
+  "otp": "999843",
+      "password":"ffs@fdxv"
     },
     {
        "id":"sfgshfgsfgsjfye77878",
@@ -23,7 +24,8 @@
   "salt": "fac86afeab744594371bc32cba2f67a2",
   "hash": "7ebc9771b7ca9291a928c2eeea5e641ab52d62621e8ab6de93f540dcccb0fe79a5af3afe6df99f0e1fc465466f41d8a4c3f61c922bc574333223144c57c916e7",
   "__v": 0,
-  "otp": "999843"
+  "otp": "999843",
+      "password":"ffs@fdxv"
     }
   ]
   
